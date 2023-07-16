@@ -4,4 +4,5 @@
 ![Screenshot_1](https://github.com/safaanilatasoy/100-Days-Coding-Projects/assets/61758061/90505c6f-6856-4965-adb6-2f2987893914)
 
 
-![Screenshot_2](https://github.com/safaanilatasoy/100-Days-Coding-Projects/assets/61758061/81aacd21-6560-4eb0-a478-fb3a6c1468a6)
+
+![Screenshot_3](https://github.com/safaanilatasoy/100-Days-Coding-Projects/assets/61758061/b36d9e2b-df6b-4bcd-858a-cbda205435da)

@@ -5,3 +5,6 @@
 
 2. Day #2 - Crypto Currency App (JavaScript, HTML, CSS)
 <img src="Day2-Cyrpto-Currency-App/images/cur_converter_ss.png" width="400"/>
+
+3. Day #3 - Crypto Price App (Javascript, Html, CSS)
+<img src="Day3-Crypto-Price-App/images/crypto-price-app.png" width="400"/>

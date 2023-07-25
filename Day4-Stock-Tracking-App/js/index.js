@@ -81,3 +81,5 @@ document.querySelector("form").addEventListener("submit", (event) => {
     const symbol = symbolInput.ariaValueMax.toUpperCase();
     fetchStockData(symbol);
 });
+
+

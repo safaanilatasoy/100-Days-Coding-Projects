@@ -10,8 +10,7 @@
 <img src="Day3-Crypto-Price-App/images/crypto-price-app.png" width="400"/>
 
 4. Day #4 - Stock Tracking App (Javascript, Html, CSS)
-![stoktakip](https://github.com/safaanilatasoy/100-Days-Coding-Projects/assets/61758061/95205e05-a0cc-461a-b479-083d08d74b20)
-
+<img src="https://github.com/safaanilatasoy/100-Days-Coding-Projects/assets/61758061/95205e05-a0cc-461a-b479-083d08d74b20" width="400"/>
 
 5. Day #5 - Text to Speech App (Javascript, Html, CSS)
-![text-to-speech](https://github.com/safaanilatasoy/100-Days-Coding-Projects/assets/61758061/b91a0ef3-fc39-4e84-bdea-a966d0d95a5a)
+<img src="https://github.com/safaanilatasoy/100-Days-Coding-Projects/assets/61758061/b91a0ef3-fc39-4e84-bdea-a966d0d95a5a" width="400"/>

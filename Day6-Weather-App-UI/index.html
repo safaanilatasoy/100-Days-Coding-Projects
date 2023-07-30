@@ -1,13 +1,96 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
     <meta charset="UTF-8">
     <!-- Main CSS File -->
     <link rel="stylesheet" href="css/style.css">
+    <!-- Box Icons CDN Link -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
     <title>Day #6 || Modern Weather App UI</title>
 </head>
 <body>
-    
+    <div class="container">
+        <div class="left-info">
+            <div class="pic-gradient">
+                <div class="today-info">
+                    <h2>Cuma</h2>
+                    <span>28 Haziran 2023</span>
+                    <div>
+                        <i class="bx bx-current-location"></i>
+                        <span>Istanbul, TR</span>
+                    </div>
+                </div>
+                <div class="today-weather">
+                    <i class="bx bx-sun"></i>
+                    <h1 class="weather-temp">25 C</h1>
+                    <h3>Güneşli</h3>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="right-info">
+            <div class="day-info">
+            <div>
+                <span class="title">YAĞIŞ</span>
+                <span class="value">4 %</span>
+            </div>
+             <div>
+                <span class="title">NEM</span>
+                <span class="value">15 %</span>
+            </div>
+             <div>
+                <span class="title">RÜZGAR HIZI</span>
+                <span class="value">3 km/h</span>
+            </div>
+            </div>
+
+            <ul class="days-list">
+                <li>
+                <i class="bx bx-cloud"></i>
+                <span>Pzt</span>
+                <span class="day-temp">18 C</span>
+                </li>
+                <li>
+                <i class="bx bx-sun"></i>
+                <span>Sal</span>
+                <span class="day-temp">22 C</span>
+                </li>
+                <li>
+                <i class="bx bx-sun"></i>
+                <span>Çrş</span>
+                <span class="day-temp">23 C</span>
+                </li>
+                <li>
+                <i class="bx bx-cloud-rain"></i>
+                <span>Prş</span>
+                <span class="day-temp">22 C</span>
+                </li>
+                <li>
+                <i class="bx bx-cloud-rain"></i>
+                <span>Cum</span>
+                <span class="day-temp">25 C</span>
+                </li>
+                <li>
+                <i class="bx bx-cloud"></i>
+                <span>Cmt</span>
+                <span class="day-temp">26 C</span>
+                </li>
+                <li>
+                <i class="bx bx-cloud-drizzle"></i>
+                <span>Paz</span>
+                <span class="day-temp">16 C</span>
+                </li>
+                
+            </ul>
+
+            <div class="btn-container">
+                <button class="loc-button">Konum Ara</button>
+            </div>
+        </div>
+    </div>
 
 
 

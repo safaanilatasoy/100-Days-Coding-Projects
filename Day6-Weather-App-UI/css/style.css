@@ -87,6 +87,9 @@ body{
     bottom: 20px;
     left: 20px;
 }
+/* .today-weather .bx:hover{
+    font-size: 4.6rem;
+} */
 .right-info{
     float: right;
 }
